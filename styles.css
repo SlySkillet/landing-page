@@ -135,3 +135,38 @@ ol {
     font-size: 18px;
 }
 
+/*fourth section styles*/
+
+.fourth-section {
+    display: flex;
+    background-color: #3882F6;
+    margin: 100px 170px;
+    border-radius: 8px;
+    padding: 50px 100px;
+    justify-content: space-between;
+}
+
+.left {
+    color: #F9FAF8;
+
+}
+
+.fourth-section-bold-text {
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.fourth-section-regular-text {
+    color: #E5E7EB;
+}
+
+.button-2 {
+    color: #F9FAF8;
+    background-color: #3882F6;
+    border: solid #F9FAF8;
+    border-width: 3px;
+    border-radius: 8px;
+    padding: 5px 50px;
+    
+}
+
