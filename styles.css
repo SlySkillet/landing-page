@@ -38,10 +38,14 @@ ol {
 .lower-top {
     display: flex;
     padding: 70px 150px;
-    gap: 30px;
+    gap: 50px;
 }
 
-
+.info-column {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
 
 .big-text {
     font-weight: 900;
@@ -57,10 +61,13 @@ ol {
 .button-1 {
     color: white;
     background-color: #3882F6;
+    height: 40px;
+    width: fit-content;
     padding: 8px 20px;
     border: none;
     border-radius: 8px;
     margin: 10px 0px;
+    
 }
 
 /*second section styles*/
