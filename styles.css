@@ -144,6 +144,7 @@ ol {
     border-radius: 8px;
     padding: 50px 100px;
     justify-content: space-between;
+    gap: 50px;
 }
 
 .left {
@@ -164,6 +165,7 @@ ol {
     color: #F9FAF8;
     background-color: #3882F6;
     border: solid #F9FAF8;
+    font-weight: bold;
     border-width: 3px;
     border-radius: 8px;
     padding: 5px 50px;
