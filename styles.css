@@ -69,7 +69,7 @@ ol {
     margin-top: 50px;
     display: flex;
     flex-direction: column;
-    margin-bottom: 100px;
+    margin-bottom: 70px;
 }
 
 .info-header {
@@ -110,3 +110,28 @@ ol {
     border-radius: 8px;
     align-self: center;
 }
+
+/*third section styles*/
+
+.third-section {
+    display: flex;
+    flex-direction: column;
+    background-color: #E5E7EB;
+    padding: 100px 240px;
+    gap: 8px;
+}
+
+.quote {
+    font-size: 36px;
+    font-style: italic;
+    opacity: .8;
+    color: #1F2937;
+}
+
+.quote-reference {
+    display: flex;
+    justify-content: flex-end;
+    font-weight: bold;
+    font-size: 18px;
+}
+
