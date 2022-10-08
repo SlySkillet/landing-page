@@ -38,6 +38,7 @@ ol {
 .lower-top {
     display: flex;
     padding: 70px 150px;
+    gap: 30px;
 }
 
 
@@ -68,6 +69,7 @@ ol {
     margin-top: 50px;
     display: flex;
     flex-direction: column;
+    margin-bottom: 100px;
 }
 
 .info-header {
@@ -81,10 +83,30 @@ ol {
 .images-second-section {
     display: flex;
     flex-direction: row;
+    justify-content: center;
+    gap: 25px;
+    margin: 50px 250px;
+}
 
+.image {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 5px;
 }
 
 .text {
     display: flex;
     flex-wrap: wrap;
+    text-align: center;
+    color: #858484
+}
+
+.box {
+    width: 125px;
+    height: 125px;
+    background-color: white;
+    border: solid 3px #3882F6;
+    border-radius: 8px;
+    align-self: center;
 }
