@@ -85,7 +85,7 @@ ol {
     flex-direction: row;
     justify-content: center;
     gap: 25px;
-    margin: 50px 250px;
+    margin: 50px 400px;
 }
 
 .image {
@@ -117,7 +117,7 @@ ol {
     display: flex;
     flex-direction: column;
     background-color: #E5E7EB;
-    padding: 100px 240px;
+    padding: 100px 300px;
     gap: 8px;
 }
 
