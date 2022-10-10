@@ -17,8 +17,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding-left: 150px;
-    padding-right: 150px;
+    padding: 0px 170px;
 }
 
 .header-logo {
@@ -38,8 +37,8 @@ ol {
 
 .lower-top {
     display: flex;
-    padding: 70px 150px;
-    gap: 80px;
+    padding: 70px 200px;
+    gap: 150px;
     
 }
 
