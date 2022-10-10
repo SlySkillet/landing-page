@@ -10,6 +10,7 @@ body {
 .top-section {
     background-color: #1F2937;
     color: #F9FAF8;
+    padding-bottom: 70px;
 }
 
 .header {
@@ -38,13 +39,18 @@ ol {
 .lower-top {
     display: flex;
     padding: 70px 150px;
-    gap: 50px;
+    gap: 80px;
+    
 }
 
 .info-column {
     display: flex;
     flex-direction: column;
     gap: 10px;
+}
+
+.image-column {
+    
 }
 
 .big-text {
